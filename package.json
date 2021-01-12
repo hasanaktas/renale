@@ -1,6 +1,6 @@
 {
   "name": "renale",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Dynamic Style with React-Native",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,9 @@
     "react": "16.13.1",
     "react-native": "0.63.4",
     "prop-types": "15.7.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.61.5"
   }
 }
